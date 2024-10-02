@@ -1,4 +1,4 @@
-const swiper = new Swiper('.swiper', {
+const hotelSwiper = new Swiper('.swiper', {
   // Optional parameters
   loop: true,
 
